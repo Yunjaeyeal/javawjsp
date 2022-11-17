@@ -21,8 +21,8 @@
     <url-pattern>/t2</url-pattern>
   </servlet-mapping>
    -->
-  <!--  
-  <servlet>
+   
+ <!--  <servlet>
     <servlet-name>test2</servlet-name>
     <servlet-class>j1111.Test2</servlet-class>
   </servlet>
@@ -30,7 +30,7 @@
   	<servlet-name>test2</servlet-name>
   	<url-pattern>/T2</url-pattern>
   </servlet-mapping>
-   -->
+  
   <servlet>
     <servlet-name>test12</servlet-name>
     <servlet-class>j1111.Test12</servlet-class>
@@ -38,11 +38,11 @@
   <servlet-mapping>
   	<servlet-name>test12</servlet-name>
   	<url-pattern>/test12ok</url-pattern>
-  </servlet-mapping>
+  </servlet-mapping> -->
   
   <!-- 특정 서블릿에 초기값을 할당하기 -->
   
-<!--   <servlet>
+ <!--  <servlet>
     <servlet-name>green</servlet-name>
     <servlet-class>j1117.Green</servlet-class>
     <init-param>
@@ -62,17 +62,17 @@
   	<servlet-name>green</servlet-name>
   	<url-pattern>/Green</url-pattern>
   </servlet-mapping>
- 
-   -->
-  <!-- 공통변수에 초기값 할당하기 -->
-  <context-param>
+  -->
+  
+ <!--   공통변수에 초기값 할당하기 -->
+<!--   <context-param>
     <param-name>logoName</param-name>
     <param-value>Java Green Company</param-value>
   </context-param>
   <context-param>
     <param-name>homeAddress</param-name>
-    <param-value>http://192.168.50.144:9090/javawjsp</param-value>
-  </context-param>
+    <param-value>http://192.168.50.20:9090/javawjsp/</param-value>
+  </context-param> --> 
   
   <!-- error페이지 설정하기 -->
   <!-- 
@@ -90,8 +90,7 @@
   </error-page>
   -->
   
-  <!-- Filter 매핑처리 -->
-  
+<!--   Filter 매핑처리 -->
  <!--  <filter>
   	<filter-name>encodingFilter</filter-name>
   	<filter-class>filter.EncodingFilter</filter-class>

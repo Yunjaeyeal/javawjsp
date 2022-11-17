@@ -8,7 +8,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 
-@WebServlet("/T2")
+@WebServlet("/T2") //컨트롤러
 public class Test2 extends HttpServlet {
 	
        
