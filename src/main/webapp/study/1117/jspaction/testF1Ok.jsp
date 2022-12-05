@@ -19,7 +19,7 @@
 <body>
 <p><br/></p>
 <div class="container">
-	<h2>전송된 자료 결과 보기2</h2>
+	<h2>전송된 자료 결과 보기F1OK</h2>
 	<p>
 		<table class="table table-bordered">
 		<tr>

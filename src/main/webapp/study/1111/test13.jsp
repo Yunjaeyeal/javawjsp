@@ -27,7 +27,7 @@
 <p><br/></p>
 <div class="container">
 <h2> 회원가입 </h2>
-<form name="myform" method="get" action="../../test12Ok">
+<form name="myform" method="get" action="test13Ok.jsp">
 회원 ID <input type ="text" name="mid"  class="form-control"/>
 비밀번호 <input type = "password" name=pwd class="form-control"/> 
 성명 <input type = "text" name="name" class="form-control"/>

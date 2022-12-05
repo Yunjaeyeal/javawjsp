@@ -33,7 +33,7 @@
    -->
   <servlet>
     <servlet-name>test12</servlet-name>
-    <servlet-class>j1111.Test12</servlet-class>
+    <servlet-class>study.j1111.Test12</servlet-class>
   </servlet>
   <servlet-mapping>
   	<servlet-name>test12</servlet-name>
