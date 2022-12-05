@@ -48,7 +48,7 @@
       <th>번호</th>
       <th>파일명</th>
       <th>파일형식</th>
-      <th>비고</th>
+      <th>비 고</th>
     </tr>
     <c:forEach var="file" items="${files}" varStatus="st">
       <tr>
