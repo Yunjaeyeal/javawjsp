@@ -45,7 +45,7 @@
   <hr/>
   <table class="table table-hover text-center">
     <tr>
-      <th>번호</th>
+      <th>번 호</th>
       <th>파일명</th>
       <th>파일형식</th>
       <th>비 고</th>
